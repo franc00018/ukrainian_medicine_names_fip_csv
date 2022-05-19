@@ -21,6 +21,14 @@ https://ebauche.facil.services/code/#/2/code/view/rnrvp1fwdSaeC8CVBQJM-izeyQeM5i
 
 https://www.proz.com/glossary-translations/english-to-ukrainian-glossaries
 
+https://www.healthtranslations.vic.gov.au/
+
+## Parallel corpus (phrases dans plusieurs langues depuis documents traduits)
+
+https://opus.nlpl.eu/ (general, plusieurs langues ouest-européenne)
+
+https://zenodo.org/record/3346770 (medical, English, Spanish, and Portuguese)
+
 ## Médicament
 
 ### Voir la section Related resources from FIP and others.
