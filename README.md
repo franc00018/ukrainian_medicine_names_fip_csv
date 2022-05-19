@@ -21,7 +21,15 @@ https://ebauche.facil.services/code/#/2/code/view/rnrvp1fwdSaeC8CVBQJM-izeyQeM5i
 
 https://www.proz.com/glossary-translations/english-to-ukrainian-glossaries
 
+### Australie
+
 https://www.healthtranslations.vic.gov.au/
+
+### Lexilogos
+
+Plusieurs sources, page de référence en français
+
+https://www.lexilogos.com/medical_dictionnaire.htm
 
 ## Parallel corpus (phrases dans plusieurs langues depuis documents traduits)
 
@@ -51,6 +59,12 @@ https://ukrainemedlist.solutions.iqvia.com/
 https://go.drugbank.com/releases/latest#open-data
 
 Données ouvertes pour convertir les codes standardisés, les noms anglais et les formules chimiques (peut servir de master data)
+
+### Extrait des données de la Base de données sur les produits pharmaceutiques (BDPP) – Santé Canada
+
+Codes et noms utilisés au Canada
+
+https://www.canada.ca/fr/sante-canada/services/medicaments-produits-sante/medicaments/base-donnees-produits-pharmaceutiques/est-extrait-donnees-extrait-donnees-base-donnees-produits-pharmaceutiques.html
 
 ### Besoins Ukraine
 
